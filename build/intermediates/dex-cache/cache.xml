@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tarun/AndroidStudioProjects/MadProject/app/libs/Parse-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c2cb0bfe37cbefd855b6faa3c9a5be833aba7300">
+        <dex dex="/Users/tarun/AndroidStudioProjects/MadProject/app/build/intermediates/pre-dexed/debug/Parse-1.8.2-80a1af25ae8e2aeb0ccacebf4e7de5282ac406f7.jar" />
+    </item>
+    <item
+        jar="/Users/tarun/AndroidStudioProjects/MadProject/app/libs/ParseCrashReporting-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ccf9e90414e7bb2cf09f4d7c77c42f70c690e118">
+        <dex dex="/Users/tarun/AndroidStudioProjects/MadProject/app/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.8.2-de3dc570561433e40021f3596981a51c1822932c.jar" />
+    </item>
+    <item
+        jar="/Users/tarun/AndroidStudioProjects/MadProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="/Users/tarun/AndroidStudioProjects/MadProject/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-343f0a1a5bbf47863c92c29db4af45c2c30c2ef4.jar" />
+    </item>
+    <item
+        jar="/Users/tarun/android-sdks/extras/android/m2repository/com/android/support/support-annotations/22.1.0/support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="/Users/tarun/AndroidStudioProjects/MadProject/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.0-bb937e9ab532abe94cec0b7f97b32a47c50e51e4.jar" />
+    </item>
+    <item
+        jar="/Users/tarun/AndroidStudioProjects/MadProject/app/libs/bolts-android-1.1.4-javadoc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f5dd6492c539679411fa30818320b737c410158f">
+        <dex dex="/Users/tarun/AndroidStudioProjects/MadProject/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-javadoc-fbdfc367bdbc3a597c87f09eb7cee4f38217c9eb.jar" />
+    </item>
+    <item
+        jar="/Users/tarun/AndroidStudioProjects/MadProject/app/libs/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/tarun/AndroidStudioProjects/MadProject/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-8890990b8f789950fd20551ea995c3a0556198cb.jar" />
+    </item>
+    <item
+        jar="/Users/tarun/AndroidStudioProjects/MadProject/app/libs/picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/Users/tarun/AndroidStudioProjects/MadProject/app/build/intermediates/pre-dexed/debug/picasso-2.5.0-533e983340693153fce5afdee1cac79b3f96022e.jar" />
+    </item>
+    <item
+        jar="/Users/tarun/AndroidStudioProjects/MadProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="/Users/tarun/AndroidStudioProjects/MadProject/app/build/intermediates/pre-dexed/debug/classes-f221b38e77b53b8916995835defa1bd8c4039886.jar" />
+    </item>
+
+</items>
